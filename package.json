@@ -1,0 +1,7 @@
+{
+  "name": "nodejs-express-aws-ec2",
+  "version": "0.0.1",
+  "devDependencies": {
+    "express": "4.17.1"
+  }
+}
